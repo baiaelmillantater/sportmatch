@@ -1,0 +1,7 @@
+{
+  "name": "MatchAdvisor",
+  "description": "AI-powered sports event concierge for Italy. Find events, hotels, transport, and parking with intelligent AI recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
